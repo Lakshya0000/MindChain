@@ -2,7 +2,6 @@
 
 <div align="center">
   
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![React](https://img.shields.io/badge/React-v18.2.0-61dafb.svg)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3.3.0-38bdf8.svg)](https://tailwindcss.com/)
   [![Solidity](https://img.shields.io/badge/Solidity-v0.8.17-363636.svg)](https://soliditylang.org/)
@@ -56,28 +55,26 @@ Built on Ethereum and utilizing PyUSD for stable transactions, MindChain combine
 
 ### Home Page
 
-<!-- Home page screenshot will be here -->
-<p><i>Welcoming users with an intuitive interface highlighting key features</i></p>
+![image](https://github.com/user-attachments/assets/0303172c-99c2-48b9-9edf-2640f99b9775)
 
 ### Activities Dashboard
 
-<!-- Activities screenshot will be here -->
-<p><i>Interactive mindfulness exercises that reward users with Soul Tokens</i></p>
+![image](https://github.com/user-attachments/assets/6bf7c924-186a-4cc5-b7d5-f43ae45e2e1a)
 
 ### Workshop Marketplace
 
-<!-- Workshop marketplace screenshot will be here -->
-<p><i>Browse, purchase, and create workshops with token-based discounts</i></p>
+![image](https://github.com/user-attachments/assets/9e9d46ed-adfe-4f29-8313-315c5c9b2c6e)
+
 
 ### Wallet Integration
 
-<!-- Wallet screenshot will be here -->
-<p><i>Seamless blockchain wallet connection with token balance display</i></p>
+![image](https://github.com/user-attachments/assets/301f7e7d-077f-4d55-9b2d-8901d987701f)
+
 
 ### Transaction History
 
-<!-- Transaction history screenshot will be here -->
-<p><i>Comprehensive tracking of all token earnings and expenditures</i></p>
+![image](https://github.com/user-attachments/assets/57756099-b9dc-49dc-a976-aaefae1db9da)
+
 
 </div>
 
@@ -120,7 +117,7 @@ MindChain/
 ├── backend/                 # Express server
 │   ├── model/               # MongoDB schemas
 │   ├── routes/              # API endpoints
-│   └── server.js            # Entry point
+│   └── index.js            # Entry point
 ├── contracts/               # Solidity smart contracts
 │   ├── SoulToken.sol        # Token contract
 └── README.md                # Project documentation
@@ -175,7 +172,6 @@ MindChain/
 
 ## 🌟 Future Roadmap
 
-- **Mobile App:** Native applications for iOS and Android
 - **Expanded Workshop Categories:** More specialized mindfulness topics
 - **Community Features:** Social interactions and group activities
 - **Achievement System:** Badges and milestones to track progress
@@ -196,11 +192,6 @@ MindChain/
 
 </div>
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
